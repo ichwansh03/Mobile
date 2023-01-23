@@ -16,7 +16,7 @@
         app:cardElevation="12dp"
         android:layout_margin="12dp">
         <EditText
-            android:id="@+id/usernameLogin"
+            android:id="@+id/emailLogin"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/montserrat_medium"
@@ -77,4 +77,15 @@
             android:fontFamily="@font/montserrat_semibold"
             android:padding="12dp"/>
     </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/txlogin_admin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/masuk_sebagai_administrator"
+        android:textSize="18sp"
+        android:fontFamily="@font/montserrat_medium"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@color/white"
+        android:layout_marginTop="18dp"/>
 </LinearLayout>

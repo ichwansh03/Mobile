@@ -108,45 +108,13 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/montserrat_medium"
-            android:hint="@string/password"
+            android:hint="@string/konfirmasi_password"
             android:background="@color/white"
             android:inputType="textPassword"
             android:padding="10dp"
             android:textSize="18sp"/>
     </androidx.cardview.widget.CardView>
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/masuk_sebagai"
-        android:fontFamily="@font/montserrat_medium"
-        android:textSize="18sp"
-        android:textColor="@color/white"
-        android:layout_margin="10dp"/>
-
-    <RadioGroup
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:layout_gravity="center_horizontal">
-
-        <RadioButton
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/pengguna"
-            android:fontFamily="@font/montserrat_semibold"
-            android:textSize="18sp"
-            android:textColor="@color/white"
-            android:layout_marginEnd="24dp"/>
-
-        <RadioButton
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/admin"
-            android:textColor="@color/white"
-            android:fontFamily="@font/montserrat_semibold"
-            android:textSize="18sp"/>
-    </RadioGroup>
 
     <androidx.cardview.widget.CardView
         android:id="@+id/btndaftar"

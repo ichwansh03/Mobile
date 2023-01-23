@@ -19,4 +19,7 @@
     <string name="jumlah_uang">Jumlah Uang</string>
     <string name="keterangan">Keterangan</string>
     <string name="simpan">Simpan</string>
+    <string name="konfirmasi_password">Konfirmasi Password</string>
+    <string name="masuk_sebagai_administrator"><u>Masuk Sebagai Administrator</u></string>
+    <string name="jenis_kas">Jenis Kas</string>
 </resources>
