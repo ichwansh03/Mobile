@@ -4,7 +4,7 @@
 * RegisterActivity
 * UserActivity
 #### Ubah menjadi IP yang terhubung dari internet/wifi ke laptop (ipconfig)
-#### Download file php native dan letakkan pada folder xampp->htdocs 
+#### Download file php native (db_surau.zip) dan letakkan pada folder xampp->htdocs 
 #### Export file sql
 
 * Versi Android Studio yang digunakan: 2021.2.1 Patch 2
